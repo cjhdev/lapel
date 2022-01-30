@@ -1,0 +1,6 @@
+This project combines original work with third party code.
+
+Third party code includes:
+
+- vendor/mbed_sha256: SHA256 from MBEDTLS, modified to suit this project.
+
