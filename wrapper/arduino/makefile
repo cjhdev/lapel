@@ -53,7 +53,7 @@ $(PACKAGE_DIR)/arduino_lapel/library.properties:
 	@ echo "version=$(VERSION)" >> $@
 	@ echo "author=Cameron Harper" >> $@
 	@ echo "maintainer=Cameron Harper" >> $@
-	@ echo "sentence=An interactive CLI shell for embedded applications." >> $@
+	@ echo "sentence=A CLI shell for embedded applications." >> $@
 	@ echo "paragraph=" >> $@
 	@ echo "category=Communication" >> $@
 	@ echo "url=https://github.com/cjhdev/lapel" >> $@
