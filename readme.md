@@ -57,7 +57,7 @@ There are some preprocessor options which can be defined in `lapel_config.h`:
 
 Print debug messages.
 
-### `#define LAPELERROR(...)`
+### `#define LAPEL_ERROR(...)`
 
 Print error messages.
 
